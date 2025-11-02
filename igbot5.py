@@ -44,8 +44,8 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 # 🎯 FORCE JOIN CHANNELS - Add your channel usernames here (without @)
 REQUIRED_CHANNELS = [
-    "your_channel_1",  # Replace with your actual channel username
-    "your_channel_2",  # Add more channels as needed
+    "jerrybyte",  # Replace with your actual channel username
+    "jerrybytechats",  # Add more channels as needed
 ]
 
 authorized_users = []
